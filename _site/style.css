@@ -278,7 +278,7 @@ header {
     color: #fff;
     background-attachment: scroll;
     background-image: url('../img/header-bg.jpg');
-    background-color: rgba(7, 6, 6, 0.822);
+    background-color: rgba(7, 6, 6, 0.555);
     background-blend-mode: darken;
     background-position: center center;
     background-repeat: none;
